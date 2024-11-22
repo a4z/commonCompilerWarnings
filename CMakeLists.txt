@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.30)
+cmake_minimum_required(VERSION 3.29)
 project (commonCompilerWarnings VERSION 0.9.1)
 
 add_library(commonCompilerWarnings INTERFACE)
